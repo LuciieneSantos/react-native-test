@@ -3,7 +3,7 @@ Listagem de itens com opcção de visualização feito em react native + expo, c
 Utilização da API:JSONPlaceholder: https://jsonplaceholder.typicode.com/ 
 
 
-*Requisitos:*
+**Requisitos:**
 
 -Fazer uma requisição de GET exibindo uma lista de posts de ao menos 10 objetos
 
@@ -11,7 +11,7 @@ Utilização da API:JSONPlaceholder: https://jsonplaceholder.typicode.com/
 
 
 
-*Informações técnicas:*
+**Informações técnicas:**
 
 React Native
 
